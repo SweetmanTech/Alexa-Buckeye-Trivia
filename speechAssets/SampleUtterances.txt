@@ -1,0 +1,16 @@
+AnswerIntent the answer is {Answer}
+AnswerIntent my answer is {Answer}
+AnswerIntent is it {Answer}
+AnswerIntent {Answer} is my answer
+AnswerIntent {Answer} 
+AnswerIntent Answer {Answer}
+
+DontKnowIntent I do not know
+DontKnowIntent I don't know
+DontKnowIntent dunno
+DontKnowIntent IDK
+
+AMAZON.StartOverIntent start game
+AMAZON.StartOverIntent new game
+AMAZON.StartOverIntent start
+AMAZON.StartOverIntent start new game 

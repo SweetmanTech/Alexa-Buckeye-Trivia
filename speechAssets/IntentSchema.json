@@ -1,0 +1,46 @@
+{
+	  "intents": [
+	    {
+	      "intent": "AnswerIntent",
+	      "slots": [
+	        {
+	          "name": "Answer",
+	          "type": "LIST_OF_ANSWERS"
+	        }
+	      ]
+	    },
+        {
+          "intent": "PlayerCountIntent",
+          "slots": [
+            {
+              "name": "PlayerCount",
+              "type": "NUMBER_OF_PLAYERS"
+            }
+          ]
+        },
+	    {
+	      "intent": "DontKnowIntent"
+	    },
+	    {
+	      "intent": "AMAZON.StartOverIntent"
+	    },
+	    {
+	      "intent": "AMAZON.RepeatIntent"
+	    },
+	    {
+	      "intent": "AMAZON.HelpIntent"
+	    },
+	    {
+	      "intent": "AMAZON.YesIntent"
+	    },
+	    {
+	      "intent": "AMAZON.NoIntent"
+	    },
+	    {
+	      "intent": "AMAZON.StopIntent"
+	    },
+	    {
+	      "intent": "AMAZON.CancelIntent"
+	    }
+	  ]
+	}
